@@ -1,0 +1,85 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.matchRandom{
+	color: white;
+	background-color: #000000;
+	height: 165px;
+	width: 100%;
+}
+
+.matchRandom .general{
+	padding-left: 600px;
+}
+
+.matchRandom .images{
+	height: 30px;
+	width: 40px;
+}
+
+.tasto-general{
+	width: 100%;
+	text-align: center;
+}
+
+ h1{
+	padding-top: 40px;
+	text-align: center;
+}
+
+.panel {
+	display: none;
+}
+
+
+.calculateOperations{
+	color: #FFFFFF;
+	background-color: red;
+	height: 165px;
+	width: 100%;
+}
+
+
+.convertTemperatures{
+	color: green;
+	background-color: yellow;
+	height: 140px;
+	width: 100%;
+}
+
+
+.poth{
+	color: #FFFFFF;
+	background-color: green;
+	height: 140px;
+	width: 100%;
+}
+
+.factorialOfNumber{
+	color: #FFFFFF;
+	background-color: orange;
+	height: 140px;
+	width: 100%;
+}
+
+.sumAndProduct{
+	color: #FFFFFF;
+	background-color: violet;
+	height: 140px;
+	width: 100%;
+}
+
+.sumArray{
+	color: #FFFFFF;
+	background-color: blue;
+	height: 140px;
+	width: 100%;
+}
+
+.pariEDispari{
+	color: blue;
+	background-color: #8EF2FF;
+	height: 140px;
+	width: 100%;
+}
