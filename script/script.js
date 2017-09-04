@@ -20,7 +20,6 @@ function calculateOperations(int1,int2){
 
 	$('.result-calculateOperations').html(multiply + '-' + divide);
 
-	//console.log(multiply + ' - ' + divide);
 }
 
 function convertTemperatures(grado1,grado2){
