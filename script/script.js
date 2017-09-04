@@ -29,7 +29,7 @@ function convertTemperatures(grado1,grado2){
 	var Fahrenheit =  (9/5) + (grado2 * 32);
 
 	$('.result-convert').html(Celsius + ' - ' + Fahrenheit);
-	//console.log(Celsius + ' - ' + Fahrenheit);
+	
 }
 
 function poth(int1, int2){
