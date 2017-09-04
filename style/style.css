@@ -32,14 +32,12 @@
 	display: none;
 }
 
-
 .calculateOperations{
 	color: #FFFFFF;
 	background-color: red;
 	height: 165px;
 	width: 100%;
 }
-
 
 .convertTemperatures{
 	color: green;
@@ -48,10 +46,10 @@
 	width: 100%;
 }
 
-
 .poth{
 	color: #FFFFFF;
 	background-color: green;
+	//height: 140px;
 	height: 140px;
 	width: 100%;
 }
